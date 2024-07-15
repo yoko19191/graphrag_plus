@@ -1,2 +1,3 @@
-# graphrag_plus
+# GraphRAG +
+
 Explore all possibilities regarding GraphRAG
